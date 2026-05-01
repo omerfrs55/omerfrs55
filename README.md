@@ -2,9 +2,13 @@
 ## TR
 Ben Ömer Faruk Sağlam, Piri Reis Üniversitesi Bilgisayar Programcılığı 2. sınıf öğrencisiyim. Üniversite eğitimime başlamadan önce 1 yıl İngilizce hazırlık eğitimi aldım. Üniversitemde Java, Python, C, C#, SQL, HTML, CSS, Bootstrap ve JavaScript gibi yazılım dilleri ve teknolojileri üzerine eğitimler görmekteyim. Türkiye Finans Katılım bankasında stajyer olarak görev aldım.
 
+Akademik ve profesyonel tecrübelerimin yanı sıra, mimarisini ve geliştirmesini tamamen üstlendiğim, şu anda piyasaya sürülme aşamasında olan çeşitli bağımsız yazılım ve mobil uygulama projeleri üzerinde aktif olarak çalışmaktayım.
+
 Yazılım alanına duyduğum ilgi ve kendimi geliştirme tutkumla, teknik becerilerimi her geçen gün artırmayı hedefleyen biriyim. Bireysel veya ekip içinde çalışmaya istekli, sorumluluk sahibi ve öğrenmeye açık bir yapıya sahibim. Disiplinli çalışarak hem kişisel hem de mesleki gelişimime önem veriyorum.
 ## EN
 I am Ömer Faruk Sağlam, a second-year Computer Programming student at Piri Reis University. Before starting my degree, I completed a one-year English preparatory program. Throughout my studies, I have been trained in software development using technologies such as Java, Python, C, C#, SQL, HTML, CSS, Bootstrap, and JavaScript. I also gained industry experience as an intern at Türkiye Finans Katılım Bankası.
+
+In addition to my academic and professional experiences, I am actively developing several independent software and mobile application projects from the ground up, which are currently in the pre-release phase.
 
 Driven by my passion for software development and continuous improvement, I am committed to advancing my technical skills day by day. I am motivated to work both individually and in a team, responsible, and eager to learn. I prioritize disciplined work, personal growth, and professional development.
 
